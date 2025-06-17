@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-302ai-302-file-parser-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-302ai-302-file-parser-mcp)
+
 # 302AI File Parser MCP Server
 
 ## Development
